@@ -11,7 +11,7 @@ React App Webapp of a functional, basic chat app using CRA. Originally tried to 
  - [x] user can login to a unique account
  - [x] user can logout of account
  - [x] support sending different data types (Photos, etc)
- - [x] support more email providers (~~Gmail currently only supported~~)
+ - [x] support more email providers 
  - [ ] Allow for more theme customization
 
 ![Login Screen](https://i.imgur.com/VfITIu0_d.webp?maxwidth=1520&fidelity=grand.jpg)
